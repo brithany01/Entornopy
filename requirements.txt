@@ -1,0 +1,8 @@
+colorama==0.4.6
+markdown-it-py==4.0.0
+mdurl==0.1.2
+numpy==2.4.2
+Pygments==2.19.2
+reach==4.1.1
+rich==14.3.3
+tqdm==4.67.3
